@@ -50,7 +50,7 @@ function Home({
         </div>
       </div>
 
-      <div className="sneakers">{renderItems()}</div>
+      <div className="cameras">{renderItems()}</div>
     </div>
   );
 }

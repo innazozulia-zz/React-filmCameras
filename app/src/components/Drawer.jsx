@@ -61,7 +61,7 @@ function Drawer({ onRemove, onClose, items = [] }) {
                     width={80}
                     height={80}
                     src={obj.imageUrl}
-                    alt="Sneakers"
+                    alt="Film Camera"
                   />
                   <div className="cart__item-text">
                     <p>{obj.title}</p>

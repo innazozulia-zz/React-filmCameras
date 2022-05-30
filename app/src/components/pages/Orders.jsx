@@ -27,7 +27,7 @@ function Orders() {
       <div className="content__title">
         <h1>My Orders</h1>
       </div>
-      <div className="sneakers">
+      <div className="cameras">
         {(isLoadingOrders ? [...Array(8)] : orders).map((item, index) => (
           <Card
             key={index}

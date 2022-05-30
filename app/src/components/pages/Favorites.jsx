@@ -10,7 +10,7 @@ function Favorites() {
       <div className="content__title">
         <h1>My Favorites</h1>
       </div>
-      <div className="sneakers">
+      <div className="cameras">
         {favorites.map((item, index) => (
           <Card
             key={index}
